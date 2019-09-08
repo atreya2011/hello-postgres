@@ -1,4 +1,4 @@
-module github.com/atreya2011/hello-postgres.git
+module github.com/atreya2011/hello-postgres
 
 go 1.12
 
